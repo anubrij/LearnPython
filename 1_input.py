@@ -1,0 +1,6 @@
+print("Lets have some introduction")
+print("what is your name ?", end=' ')
+name = input()
+print("where do you live ?" , end=' ')
+address = input()
+print(f"Ok! so your name is {name} and address is {address}")
